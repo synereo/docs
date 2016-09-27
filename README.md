@@ -1,6 +1,6 @@
 ### The Synereo Social Platform 
 
-Index of "how to guide" for  various documentation: 
+Index of "how to guide": 
 
 [Registering as a new user](https://github.com/synereo/docs/wiki/Registering-as-a-new-user)
 
